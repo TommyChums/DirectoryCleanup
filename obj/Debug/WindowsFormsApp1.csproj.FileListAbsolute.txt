@@ -1,0 +1,24 @@
+c:\users\rlc\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\rlc\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\rlc\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\rlc\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+c:\users\rlc\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\rlc\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+c:\users\rlc\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+c:\users\rlc\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\rlc\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+c:\users\rlc\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SubDirectoryForm.resources
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SubDirectoryForm.resources
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
