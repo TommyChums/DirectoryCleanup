@@ -11,3 +11,38 @@ E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\Windo
 E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Directory Organizer.application
 E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Directory Organizer.exe
 E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Directory Organizer.pdb
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x86\e_sqlite3.dll
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\e_sqlite3.dll
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.AppCenter.Analytics.dll
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.AppCenter.Crashes.dll
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.AppCenter.dll
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SQLite-net.dll
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SQLitePCLRaw.batteries_green.dll
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SQLitePCLRaw.core.dll
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.AppContext.dll
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Console.dll
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Globalization.Calendars.dll
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Compression.dll
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.dll
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Net.Http.dll
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Net.Sockets.dll
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.AppCenter.xml
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.AppCenter.Analytics.xml
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.AppCenter.Crashes.xml
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SQLite-net.xml
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Directory Organizer.csprojAssemblyReference.cache
+E:\Users\Ricardo\Desktop\Programming\C# Projects\Personal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Directory Organizer.csproj.CopyComplete
